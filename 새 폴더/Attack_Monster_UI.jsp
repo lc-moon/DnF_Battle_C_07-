@@ -10,10 +10,10 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>[DnF_A01] 몬스터 공격 UI</title>
+    <title>[DnF_C07] 몬스터 공격 UI</title>
 </head>
 <body>
-    <h2>[DnF _Batte_A_01팀] 몬스터 공격 시스템</h2>
+    <h2>[DnF_Battel_C_07팀] 몬스터 공격 시스템</h2>
 
     <%
         // 세션에 저장된 캐릭터 객체를 다형성으로 받아옵니다.

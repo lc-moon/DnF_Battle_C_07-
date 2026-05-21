@@ -12,10 +12,10 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>[DnF_A01] 캐릭터 생성 UI</title>
+    <title>[DnF_C07] 캐릭터 생성 UI</title>
 </head>
 <body>
-    <h2>[DnF _Batte_A_01팀] 캐릭터 생성 시스템</h2>
+    <h2>[DnF_Battle_C_07팀] 캐릭터 생성 시스템</h2>
     
     <form action="Create_Character_UI.jsp" method="post">
         <input type="hidden" name="action" value="create">
